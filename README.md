@@ -24,6 +24,30 @@
 | background_13.jpg | 80KB | 背景图片 13 |
 | background_14.jpg | 203KB | 背景图片 14 |
 
+## 🖼️ 图片预览
+
+以下是部分精选背景图片的预览：
+
+### 样例图片展示
+
+<div align="center">
+
+![背景图片 1](background_01.jpg)
+*background_01.jpg*
+
+![背景图片 3](background_03.jpg)
+*background_03.jpg*
+
+![背景图片 6](background_06.jpg)
+*background_06.jpg*
+
+![背景图片 8](background_08.jpg)
+*background_08.jpg*
+
+</div>
+
+> 💡 **提示**: 更多高质量背景图片请查看项目文件夹中的其他图片文件。
+
 ## 🚀 使用方法
 
 ### 克隆项目
